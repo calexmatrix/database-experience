@@ -20,3 +20,6 @@ Cria o esquema conceitual para o contexto de oficina com base na narrativa forne
 - Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 
 Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela expert e suba seu projeto para um repositório próprio, com isso, você aumentará ainda mais seu portfólio de projetos no GitHub!
+
+### Resultado da modelagem
+O resultado da modelagem do zero está na imagem PNG deste diretório, realizado com o banco de dados Postgres e com a ferramenta de visualização Adminer.
